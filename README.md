@@ -1,6 +1,6 @@
-# React Native AES 128/192/256
+# React Native SHA1 / SHA256 / SHA512 / HMAC-SHA256
 
-AES encryption/decryption for react-native
+SHA Hash native module for react-native
 
 ## Installation
 
