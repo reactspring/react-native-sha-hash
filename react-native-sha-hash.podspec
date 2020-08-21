@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
   s.name          = 'react-native-sha-hash'
   s.version       = '1.0.0'
-  s.summary       = 'Native module for AES encryption'
+  s.summary       = 'Native module for SHA Hash'
   s.author        = "nixstory@gmail.com"
   s.license       = 'MIT'
   s.requires_arc  = true

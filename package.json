@@ -1,6 +1,6 @@
 {
     "name": "react-native-sha-hash",
-    "version": "0.9.2",
+    "version": "1.0.0",
     "description": "SHA Hash native module for react-native",
     "main": "index.js",
     "types": "index.d.ts",
